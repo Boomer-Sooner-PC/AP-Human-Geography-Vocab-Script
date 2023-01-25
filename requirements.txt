@@ -1,0 +1,10 @@
+bing_image_downloader==1.1.2
+keyboard==0.13.5
+openai==0.26.2
+Pillow==9.4.0
+Py_Dictionary==4.1.4
+PyAutoGUI==0.9.53
+pydictionary==2.0.1
+pyperclip==1.8.2
+pywin32==304
+requests==2.28.1
